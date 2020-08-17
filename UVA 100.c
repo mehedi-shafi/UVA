@@ -1,4 +1,3 @@
-///Accepted
 #include <stdio.h>
 #include <inttypes.h>
 int cycle (int i);
